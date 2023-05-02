@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{DD046039-5C4D-4D14-835E-CA9587DEFF15}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AuctionApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuctionApp/Program.cs">
+    <Files>
+      <File FileName="AuctionApp/Controllers/AuctionController.cs" Line="14" Column="51" />
+      <File FileName="AuctionApp/Core/Auction.cs" Line="13" Column="50" />
+      <File FileName="AuctionApp/Persistence/AuctionDbContext.cs" Line="28" Column="37" />
+      <File FileName="AuctionApp/Controllers/HomeController.cs" Line="8" Column="2" />
+      <File FileName="AuctionApp/Program.cs" Line="14" Column="59" />
+      <File FileName="AuctionApp/appsettings.json" Line="11" Column="55" />
+      <File FileName="AuctionApp/Core/Bid.cs" Line="17" Column="25" />
+      <File FileName="AuctionApp/Core/Interfaces/IAuctionPersistence.cs" Line="12" Column="1" />
+      <File FileName="AuctionApp/Core/Interfaces/IAuctionService.cs" Line="8" Column="1" />
+      <File FileName="AuctionApp/Core/AuctionService.cs" Line="53" Column="61" />
+      <File FileName="AuctionApp/Core/MockAuctionService.cs" Line="5" Column="58" />
+      <File FileName="AuctionApp/Persistence/AuctionDb.cs" Line="25" Column="70" />
+      <File FileName="AuctionApp/Persistence/BidDb.cs" Line="21" Column="43" />
+      <File FileName="AuctionApp/ViewModels/AuctionVM.cs" Line="15" Column="44" />
+      <File FileName="AuctionApp/ViewModels/BidVM.cs" Line="27" Column="1" />
+      <File FileName="AuctionApp/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="AuctionApp/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="AuctionApp/Views/Shared/_Layout.cshtml" Line="42" Column="14" />
+      <File FileName="AuctionApp/Views/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="AuctionApp/Mappings/AuctionMapping.cs" Line="14" Column="10" />
+      <File FileName="AuctionApp/Mappings/BidMapping.cs" Line="18" Column="1" />
+      <File FileName="AuctionApp/Views/Auction/AllAuctions.cshtml" Line="51" Column="18" />
+      <File FileName="AuctionApp/ViewModels/AuctionDetailsVM.cs" Line="20" Column="44" />
+      <File FileName="AuctionApp/Views/Auction/BidDetails.cshtml" Line="4" Column="30" />
+      <File FileName="AuctionApp/Views/Auction/MyAuctions.cshtml" Line="4" Column="29" />
+      <File FileName="AuctionApp/Views/Auction/CreateAuction.cshtml" Line="9" Column="7" />
+      <File FileName="AuctionApp/ViewModels/CreateAuctionVM.cs" Line="14" Column="1" />
+      <File FileName="AuctionApp/Views/Auction/AddBid.cshtml" Line="4" Column="30" />
+      <File FileName="AuctionApp/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="AuctionApp/Views/Auction/EditDescription.cshtml" Line="5" Column="31" />
+      <File FileName="AuctionApp/Views/Auction/WonAuctions.cshtml" Line="4" Column="30" />
+      <File FileName="AuctionApp/Views/Auction/AuctionsBidOn.cshtml" Line="4" Column="39" />
+      <File FileName="AuctionApp/Persistence/AuctionSqlPersistence.cs" Line="40" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuctionApp" expanded="True">
+            <Node name="AuctionApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Database" expanded="True" />
+              <Node name="Mappings" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Auction" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
